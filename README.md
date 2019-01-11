@@ -2,7 +2,7 @@
 --------
 
 
-node-cryptonote-pool
+Anoncoin-Pool
 ====================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, Monero, QuazarCoin, HoneyPenny, etc..
