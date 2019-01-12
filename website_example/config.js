@@ -1,12 +1,12 @@
-var api = "http://cryppit.com:8117";
+var api = "http://pool.anoncoin.online:8117";
 
-var coinUnits = 1000000000000;
+var coinUnits = 100000000;
 
 var poolHost = "cryppit.com";
 
 var irc = "irc.freenode.net/#monero-pools";
 
-var email = "support@cryppit.com";
+var email = "support@anoncoin.online";
 
 var cryptonatorWidget = ["XMR-BTC", "XMR-USD", "XMR-EUR", "XMR-GBP"];
 
